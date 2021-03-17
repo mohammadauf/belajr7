@@ -9,8 +9,8 @@
 
 <channel>
 	<title>belajr7</title>
-	<atom:link href="https:///mohammadauf.github.io/belajr7/feed/" rel="self" type="application/rss+xml" />
-	<link>https:///mohammadauf.github.io/belajr7</link>
+	<atom:link href="" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 17 Mar 2021 20:13:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https:///mohammadauf.github.io/belajr7/2021/03/17/hello-world/</link>
-					<comments>https:///mohammadauf.github.io/belajr7/2021/03/17/hello-world/#comments</comments>
+		<link></link>
+					<comments></comments>
 		
 		<dc:creator><![CDATA[mohammadauf]]></dc:creator>
 		<pubDate>Wed, 17 Mar 2021 20:13:29 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https:///mohammadauf.github.io/belajr7/?p=1</guid>
+		<guid isPermaLink="false"></guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https:///mohammadauf.github.io/belajr7/2021/03/17/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss></wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
